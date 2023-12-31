@@ -1,7 +1,3 @@
-//Desenvolva um programa no qual o usuário entra com dois ângulos, de acordo com o formato grau, 
-//minuto e segundo (máscara de leitura de um ângulo: %dd%dm%ds) e seja impresso na tela o valor da 
-//soma desses ângulos, também no formato grau, minuto e segundo.
-
 #include <stdio.h>
 int main(){
     int ang1, ang2;

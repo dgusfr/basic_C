@@ -1,7 +1,3 @@
-//Faça um programa em que o usuário digite uma temperatura na escala Celsius (°C) e seja exibido na tela essa temperatura 
-//nas escalas Fahrenheit (°F), Kelvin (K), Reaumur (°Re) e Rankine (°Ra), além da velocidade do som (v) na temperatura fornecida pelo usuário. 
-//Lembre-se: K = C + 273 15. F = (C × )8.1 + 32 Re = C × 8.0 Ra = (C × )8.1 + 459 67
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

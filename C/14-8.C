@@ -1,9 +1,3 @@
-//Faça um programa na linguagem C no qual o usuário digite certa quantidade de números inteiros entre 0 
-//e 9 até que um número fora desta faixa seja digitado. Em seguida, o programa deverá imprimir na tela a
-//quantidade de números 0 digitados, a quantidade de números 1 digitados, a quantidade de números 2 
-//digitados, etc.. Se o usuário não digitou nenhum número 3, por exemplo, o programa não deve imprimir 
-//para o usuário a quantidade 0 (zero) para esse número. Utilize um vetor na implementação do programa.
-
 #include <stdio.h>
 #include <stdlib.h>
 

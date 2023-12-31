@@ -1,5 +1,3 @@
-//Matriz transposta
-
 #include <stdio.h>
 #define N 4
 int main() {

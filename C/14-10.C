@@ -1,5 +1,3 @@
-//Busca linear
-
 #include <stdio.h>
 #include <stdlib.h>
 

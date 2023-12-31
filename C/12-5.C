@@ -1,6 +1,3 @@
-//Faça um programa em que o usuário digita um natural (número inteiro não negativo) e é impresso na tela se o número digitado é primo ou não. 
-//“Um número é primo se ele é divisível somente por 1 e por ele mesmo” 
-
 #include <stdio.h>
 #include <stdlib.h>
 

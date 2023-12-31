@@ -1,7 +1,3 @@
-//Dado um ano no calendário Cristão (valores negativos para anos AEC**), quais são os anos 
-//correspondentes no calendário Judaico e no calendário Muçulmano. 
-
-
 #include <stdio.h>
 #include <stdlib.h>
 

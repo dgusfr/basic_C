@@ -1,7 +1,3 @@
-//um Triângulo de Floyd é um triângulo de números consecutivos de modo que na primeira linha há um 
-//número, na segunda dois, na terceira três, e assim consecutivamente. O exemplo abaixo mostra um 
-//triângulo de Floyd com 6 linhas.
-
 #include <stdio.h>
 int main()
 {

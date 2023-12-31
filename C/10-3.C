@@ -1,7 +1,3 @@
-//Faça um programa na linguagem C no qual o usuário digite uma operação trigonométrica em seguida seja exibido o resultado
-//da operação. O ângulo digitado pelo usuário deverá estar necessariamente em graus e o programa deverá aceitar as 
-//letras s, c e t tanto minúsculas como maiúsculas. 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

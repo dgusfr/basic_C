@@ -1,9 +1,3 @@
-//Faça um programa no qual o usuário entra com os nove primeiros números do CPF e o programa retorne os 
-//dois números de verificação de CPF, conforme o algoritmo apresentado. O usuário deverá digitar os 
-//números de três em três separado-os por ponto. Utilize apenas um comando scanf para realizar a leitura do 
-//número do CPF. Dica: utilize a máscara de leitura "%1d%1d%1d.%1d%1d%1d.%1d%1d%1d".
-
-
 #include <stdio.h>
 #include <stdlib.h>
 

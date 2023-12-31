@@ -1,7 +1,3 @@
-//Faça um programa que receba na mesma linha de entrada um número real e dois caracteres dentre os 
-//valores C, F e K (onde C = Graus Celsius, F = Graus Fahrenheit e K = Kelvin). Seu programa deverá converter 
-//o valor numérico de uma escala de temperatura para outra.
-
 #include <stdio.h>
 
 int main() {

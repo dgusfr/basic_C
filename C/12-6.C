@@ -1,8 +1,3 @@
-//Faça um programa que pergunte ao usuário a quantidade de números (N) que ele deseja digitar. Em 
-//seguida, o usuário deverá digitar esses N números, que podem ou não ter casas decimais. Finalmente, seu 
-//programa deverá imprimir na tela o maior e o menor valor dentre os números digitados. Obs: Utilize no 
-//máximo cinco variáveis para resolver esse exercício e não utilize array/vetor. 
-
 #include<stdio.h>
 
 int main()

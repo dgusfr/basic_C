@@ -1,6 +1,3 @@
-//Faça um programa em que o usuário digite um número qualquer (com ou sem casa decimal) e o programa 
-//retorne se o número é inteiro ou não; caso o número digitado seja inteiro, retorne se ele é par ou ímpar. 
-
 #include<stdio.h>
 
 int main (){

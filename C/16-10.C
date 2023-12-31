@@ -1,10 +1,3 @@
-// Considere uma matriz 3 × 3 de caracteres que representa o tabuleiro de um Jogo da Velha. O caractere X 
-//(letra x maiúscula) e o caractere O (letra o maiúscula) são os símbolos utilizados pelos jogadores. 
-//Desenvolva um programa que dada uma matriz 3 × 3 preenchida com caracteres X e O imprima na tela o 
-//caractere X se o jogador que utilizou este símbolo ganhou o jogo; imprima o caractere O se o jogador que 
-//utilizou este símbolo ganhou o jogo; imprima o caractere I se o jogo está incompleto (ainda não houve 
-//vencedores); e imprima o caractere E se houve empate no jogo. 
-
 #include <stdio.h>
 #include <stdlib.h>
 
