@@ -1,4 +1,4 @@
-# Exercícios na Linguagem C
+# Exercícios Básicos na Linguagem C
 
 <p align="center">
   <img src="img/c.png" alt="foto1" style="width: 15%;">
